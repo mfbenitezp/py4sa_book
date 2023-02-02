@@ -1,10 +1,16 @@
 # Python for Spatial Analysis
 
-This books intregrates the material for the second part of the course
+This book integrates the material for the second part of the module GG3206 Spatial Analysis with GIS, this part is called Python for Spatial Analysis (PY4SA) and is a brief introduction to what you can do with Python and its potential to work, manipulate, and analyze spatial data.
 
-## Usage
 
-### Building the book
+# Versioning
+
+1.0: ( Feb 2023) This is the first iteration of this course and is work in progress, in the coming months the course will integrate more material and labs to help students, in particular, those in the University of St Andrews in the School of Geography and Sustainable development
+
+
+## Want to replicate this book? 
+
+### 1. Building the book
 
 If you'd like to develop and/or build the Python for Spatial Analysis book, you should:
 
@@ -16,16 +22,16 @@ If you'd like to develop and/or build the Python for Spatial Analysis book, you 
 
 A fully-rendered HTML version of the book will be built in `py4sa/_build/html/`.
 
-### Hosting the book
+### 2. Hosting the book
 
 Please see the [Jupyter Book documentation](https://jupyterbook.org/publish/web.html) to discover options for deploying a book online using services such as GitHub, GitLab, or Netlify.
 
 For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book) includes templates for, and information about, optional continuous integration (CI) workflow files to help easily and automatically deploy books online with GitHub or GitLab. For example, if you chose `github` for the `include_ci` cookiecutter option, your book template was created with a GitHub actions workflow file that, once pushed to GitHub, automatically renders and pushes your book to the `gh-pages` branch of your repo and hosts it on GitHub Pages when a push or pull request is made to the main branch.
 
-## Contributors
+## 3. Contributors
 
 We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/mfbenitezp/py4sa/graphs/contributors).
 
-## Credits
+## 4. Credits
 
 This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
